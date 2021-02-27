@@ -1,0 +1,343 @@
+#hide-content,
+#section-coming-soon {
+    position: absolute;
+    width: 100%;
+    min-height: 100%
+}
+
+#subheader,
+section {
+    -webkit-background-size: 100%!important;
+    -moz-background-size: 100%!important;
+    -o-background-size: 100%!important
+}
+
+#subheader {
+    background: url(../images/interior/background/bg-subheader.jpg) top fixed
+}
+
+.page-projects #subheader {
+    background-image: url(../images/interior/background/subheader-1.jpg)
+}
+
+.page-projects-alt #subheader {
+    background-image: url(../images/interior/background/subheader-1b.jpg)
+}
+
+.page-services #subheader {
+    background-image: url(../images/interior/background/subheader-2.jpg)
+}
+
+.page-about #subheader {
+    background-image: url(../images/interior/background/subheader-3.jpg)
+}
+
+.page-blog #subheader {
+    background-image: url(../images/interior/background/subheader-4.jpg)
+}
+
+.page-shop #subheader {
+    background-image: url(../images/interior/background/subheader-5.jpg)
+}
+
+.page-contact #subheader {
+    background-image: url(../images/interior/background/subheader-6.jpg)
+}
+
+#info-address {
+    background: url(../images/interior/background/bg-3.jpg) top fixed
+}
+
+#call-to-action,
+#view-all-projects {
+    padding: 60px 0
+}
+
+#section-about-us-2 .image-container {
+    background: url(../images/interior/background/bg-side-1.jpg)
+}
+
+#section-about-us-3 {
+    background: #f5f5f5;
+    height: 100%
+}
+
+#section-about-us-3 .image-container {
+    background: url(../images/interior/background/bg-side-2.jpg)
+}
+
+#section-about-us-4 .image-container {
+    background: url(../images/interior/background/bg-side-3.jpg)
+}
+
+#section-welcome-5 {
+    background: url(../images/interior/background/bg-14.jpg) top fixed
+}
+
+#section-blog {
+    background: url(../images/interior/background/bg-5.jpg) top fixed
+}
+
+#section-coming-soon {
+    background: 0 0;
+    z-index: 1
+}
+
+#section-describe {
+    background: #202020
+}
+
+#section-download {
+    background: url(../images/interior/background/bg-9.jpg) top fixed
+}
+
+#bg-coming-soon-page {
+    background: url(../images/interior/background/bg-6.jpg) top fixed;
+    position: fixed;
+    min-height: 100%;
+    width: 100%
+}
+
+#section-about-us-2 {
+    background: #18191b;
+    height: 100%
+}
+
+.de_light #section-about-us-2 {
+    background: 0 0
+}
+
+#section-welcome {
+    background: url(../images/interior/background/bg-4.jpg) top fixed
+}
+
+#section-welcome-2 {
+    background: url(../images/interior/background/bg-6.jpg) top fixed
+}
+
+#section-welcome-3 {
+    background: url(../images/interior/background/bg-7.jpg) top fixed
+}
+
+#section-welcome-4 {
+    background: url(../images/interior/background/bg-10.jpg) top fixed
+}
+
+#section-welcome-6 {
+    background: url(../images/interior/background/bg-15.jpg) top fixed
+}
+
+#section-welcome-7 {
+    background: url(../images/interior/background/bg-19.jpg) center fixed
+}
+
+#section-welcome-8 {
+    background: url(../images/interior/background/bg-20.jpg) center fixed
+}
+
+#section-welcome-9 {
+    background: url(../images/interior/background/bg-21.jpg) top fixed
+}
+
+#section-welcome-10 {
+    background: url(../images/interior/background/bg-23.jpg) top fixed
+}
+
+#section-welcome-11 {
+    background: url(../images/interior/background/bg-25.jpg) top fixed
+}
+
+#section-why-choose-us {
+    background: url(../images/interior/background/bg-8.jpg) top fixed
+}
+
+#section-why-choose-us-3 {
+    background: url(../images/interior/background/bg-16.jpg) top fixed
+}
+
+#section-portfolio {
+    background: #023f7f;
+    width: 100%;
+    overflow: hidden
+}
+#section-portfolio a.selected,
+#section-portfolio a:hover {
+	background-color: #18191b !important;
+	color: #fff !important; 
+}
+#section-portfolio a {
+	color: #fff;
+}
+#view-all-projects {
+	background: #18191b;
+}
+#view-all-projects .btn-big:hover {
+	background: #218eff;
+	border-color: #218eff;
+}
+.de_light #section-portfolio {
+    background: #fff
+}
+#section-fun-facts {
+	background: #fff;
+}
+#section-skill-bar {
+    background: url(../images/interior/background/bg-8.jpg) top fixed
+}
+
+#section-testimonial {
+    background: url(../images/interior/background/bg-3.jpg) top fixed
+}
+
+#section-testimonial-2 {
+    background: url(../images/interior/background/bg-17.jpg) top fixed
+}
+
+#section-steps {
+    background: url(../images/interior/background/bg-2.jpg) top fixed
+}
+
+#section-steps-2,
+.de_light #section-team {
+    background: #f5f5f5
+}
+
+#section-steps-3 {
+    background: url(../images/interior/background/bg-12.jpg) top fixed
+}
+
+#section-team {
+    background: #fff
+}
+
+#hide-content {
+    z-index: 100;
+    display: none;
+    background: rgba(0, 0, 0, .8)
+}
+
+#section-fun-facts .image-container {
+    background: url(../images/interior/background/bg-side-4.jpg)
+}
+
+#section-fun-facts-2 {
+    background: url(../images/interior/background/bg-13.jpg) center
+}
+
+#section-fun-facts-3 {
+    background: url(../images/interior/background/bg-18.jpg) top
+}
+
+#section-side-1.side-bg .background-image {
+    background: url(../images/interior/background/bg-side-5.jpg)
+}
+
+#section-side-2.side-bg .background-image {
+    background: url(../images/interior/background/bg-side-6.jpg)
+}
+
+#section-custom-1 {
+    background: url(../images/interior/background/bg-17.jpg) top fixed
+}
+
+#section-custom-2 {
+    background: url(../images/interior/background/bg-16.jpg) top fixed
+}
+
+#section-cta-1 {
+    background: url(../images/interior/background/bg-22.jpg) top fixed
+}
+
+#section-profile-experiences {
+    background: url(../images/interior/background/bg-24.jpg) top fixed
+}
+
+#side-01-about.side-bg .image-container {
+    background: url(../images/interior/background/bg-side-7.jpg)
+}
+
+#side-01-contact.side-bg .image-container {
+    background: url(../images/interior/background/bg-side-8.jpg)
+}
+
+#side-01-services.side-bg .image-container {
+    background: url(../images/interior/background/bg-side-9.jpg)
+}
+
+#section-service-1.side-bg .background-image {
+    background: url(../images/interior/background/bg-service-1.jpg)
+}
+
+#section-service-2.side-bg .background-image {
+    background: url(../images/interior/background/bg-service-2.jpg)
+}
+
+#section-service-3.side-bg .background-image {
+    background: url(../images/interior/background/bg-service-3.jpg)
+}
+
+#section-service-4.side-bg .background-image {
+    background: url(../images/interior/background/bg-service-4.jpg)
+}
+
+#section-service-2,
+#section-service-4 {
+    background: #f2f2f2
+}
+
+.de-navbar-left.de_light #subheader {
+    background: url(../images/interior/background/bg-subheader-sn.html) top fixed
+}
+
+.de-navbar-left.de_light.page-projects #subheader {
+    background-image: url(../images/interior/background/subheader-1-sn.html)
+}
+
+.de-navbar-left.de_light.page-services #subheader {
+    background-image: url(../images/interior/background/subheader-2-sn.html)
+}
+
+.de-navbar-left.de_light.page-about #subheader {
+    background-image: url(../images/interior/background/subheader-3-sn.html)
+}
+
+.de-navbar-left.de_light.page-blog #subheader {
+    background-image: url(../images/interior/background/subheader-4-sn.html)
+}
+
+.de-navbar-left.de_light.page-shop #subheader {
+    background-image: url(../images/interior/background/subheader-5-sn.html)
+}
+
+.de-navbar-left.de_light.page-contact #subheader {
+    background-image: url(../images/interior/background/subheader-6-sn.html)
+}
+
+.bg-fit-height {
+    -webkit-background-size: auto 100%!important;
+    -moz-background-size: auto 100%!important;
+    -o-background-size: auto 100%!important;
+    background-size: auto 100%!important;
+    background-attachment: scroll!important
+}
+
+@media only screen and (min-device-width:768) and (max-device-width:1024) and (orientation:portrait) {
+    section {
+        -webkit-background-size: auto 100%!important;
+        -moz-background-size: auto 100%!important;
+        -o-background-size: auto 100%!important;
+        background-size: auto 100%!important;
+        background-attachment: scroll!important
+    }
+}
+
+@media only screen and (max-width:767px) {
+    #subheader,
+    section {
+        -webkit-background-size: cover!important;
+        -moz-background-size: cover!important;
+        -o-background-size: cover!important;
+        background-size: cover!important;
+        background-attachment: scroll!important
+    }
+}
